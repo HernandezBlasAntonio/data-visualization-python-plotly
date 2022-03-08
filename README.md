@@ -7,11 +7,11 @@ Install [Anaconda-Navigator](https://docs.anaconda.com/anaconda/install/)
 
 Intall the environment
 
-`conda install --file venv.yaml`
+`conda env create --file wsvenv.yml`
 
 Activate the environment
 
-`conda activate venv`
+`conda activate wsvenv`
 
 Launch Jupyter Notebook
 
