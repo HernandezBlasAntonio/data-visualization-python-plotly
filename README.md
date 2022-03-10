@@ -1,11 +1,10 @@
-# data-visualization-python-plotly
-Data Visualization Workshop
+# Data Visualization Python Plotly Workshop
 
-This workshop is aimed at people who want to learn how to create interactive charts with the Python Plotly library.
+This workshop is for people who want to learn how to create interactive charts with the Python Plotly library.
 
 Install [Anaconda-Navigator](https://docs.anaconda.com/anaconda/install/)
 
-Intall the environment
+Install the environment
 
 `conda env create --file wsvenv.yml`
 
@@ -19,6 +18,6 @@ Launch Jupyter Notebook
 
 Open the **Charts.ipynb** file
 
-Create a [plotly](chart-studio.plotly.com) profile
+Create a [plotly](https://chart-studio.plotly.com) profile
 
-Go to the [settings](https://chart-studio.plotly.com/settings/api) section and checkout the **username** and **api_key** information.
+Go to the [settings](https://chart-studio.plotly.com/settings/api) section and checkout the **username** and **api_key** information
