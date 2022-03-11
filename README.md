@@ -5,6 +5,7 @@ This workshop is for people who want to learn how to create interactive charts w
 Install [Anaconda-Navigator](https://docs.anaconda.com/anaconda/install/)
 
 Clone this repository
+
 `git clone`
 
 Install the environment
